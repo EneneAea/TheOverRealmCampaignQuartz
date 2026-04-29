@@ -5,4 +5,4 @@
 >Caramellate! -->
 
 ## Immagine:
-![[NyboMessageDrawing.png]]
+![[NyboMessageDrawing.jpeg]]
