@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: The OverRealm Campaign
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+La campagna di D&D in cui tutto è possibile. Aspetta, perché c'è un villager? 👀
