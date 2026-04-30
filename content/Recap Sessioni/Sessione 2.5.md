@@ -3,11 +3,13 @@ date: 2026-04-27
 ---
 [[Shae Kirr]] e [[Kumbo Yag]] dormono.
 
-[[Nybo]] usa il foglio e la matita lasciatogli da [[Shae Kirr]] e scrive un [[NyboMessage|messaggio]].
+[[Nybo]] utilizza il foglio e la matita lasciatogli da [[Shae Kirr]] per scrivere un [[NyboMessage|messaggio]].
 
 ![[NyboMessage#Immagine]]
 
-Lascia il messaggio insieme a tre mele su di un tavolino ed esce lasciando il mantello e la parte superiore del suo vestiario a casa, così da poter sfruttare al meglio l'oscurità delle sue piume.
+Lascia il messaggio, insieme a tre mele, su un tavolino.
+
+Poi esce, lasciando il mantello e la parte superiore del suo vestiario: vuole sfruttare al massimo l'oscurità delle sue piume.
 
 ---
 
@@ -19,95 +21,144 @@ Non c'è anima viva.
 
 ---
 
-[[Nybo]] raggiunge la rotonda da cui erano arrivati poco prima, a prosegue nella direzione che gli era stata consigliata dal [[Stranamore|macellaio]] 
+[[Nybo]] raggiunge la rotonda da cui erano arrivati poco prima e prosegue nella direzione indicata dal [[Stranamore|macellaio]] 
 
-Davanti a lui tre capannoni dall'aspetto industriale.
+Davanti a lui si ergono tre capannoni dall'aspetto industriale.
 ![[Morthar#Ex Fabbrica di Mortai]]
 
-[[Nybo]] decide di esplorare quello più grande, a destra.
+Decide di esplorare quello più grande, sulla destra.
 
 ---
 
-Riesce ad entrare ad una finestra aperta.
-Sopra un soppalco un custode dorme. [[Nybo]] lo riesce a sentire.
+Riesce ad entrare da una finestra aperta.
+Sopra di lui, un soppalco.
 
-Intorno a se, una coltivazione di zucche.
+Percepisce la presenza di un custode addormentato.
 
----
-
-Analizzando il terreno, [[Nybo]] si rende conto che, camminando, una zolla del terreno produce un rumore differente dalle altre.
-Sembra come, sotto ad essa, ci sia dello spazio vuoto.
-
-[[Nybo]] si mette a scavare lentamente, col suo machete.
-
-Scopre una galleria con delle lanterne accese.
-
-Ci entra.
+Intorno a sé, una coltivazione di zucche.
 
 ---
 
-La galleria è vuota ed, in fondo, è chiusa con del terreno.
+Analizzando il terreno, [[Nybo]] nota che una zolla del terreno produce un suono differente dalle altre.
+Come se sotto ci fosse uno spazio vuoto.
 
-Sul terreno ci sono delle tracce, come se qualcosa di pesante fosse stato trascinato via diversi anni prima.
+Inizia a scavare lentamente con il machete.
 
-[[Nybo]], analizzandolo, capisce che quel terreno è più fresco in confronto a quello delle altre pareti. Dev'esser stato messo lì qualche anno prima.
+Scopre una galleria illuminata da lanterne ancora accese.
+Vi entra.
 
 ---
 
-Esce dal capannone, prova a salire sull'albero per guardare cosa fosse al piano superiore.
+La galleria è vuota e termina contro una parete di terra.
+
+Sul terreno sono visibili tracce: qualcosa di pesante è stato trascinato via, anni prima.
+
+Osservando meglio, [[Nybo]] capisce che quella terra è più fresca al resto delle pareti.
+Dev'essere stata sistemata lì più recentemente.
+
+---
+
+Esce dal capannone e prova ad arrampicarsi su un albero per osservare il piano superiore.
+
 Cade.
 
-Qualcuno sembra si stesse svegliando.
+Qualcuno sembra svegliarsi.
 
-[[Nybo]] procede verso il prossimo capannone, senza troppa preoccupazione.
+[[Nybo]] si dirige verso il capannone successivo, senza particolare preoccupazione.
 
 ---
 
 Questa volta non ci sono semplici ingressi.
 
-Spaccando la serratura col machete, [[Nybo]] riesce comunque ad entrare.
+Spaccando la serratura col machete, riesce comunque ad entrare.
 
-Dentro trova delle fornaci e qualche verdura, tra cui delle carote che decide di mangiare.
+All'interno trova fornaci ed alcune verdure. Tra queste, delle carote, che decide di mangiare.
 
 Mentre mangia, sente un'urlo:
 
 >"HANNO RUBATO I MORTAI, QUALCUNO HA RUBATO I MORTAI NASCOSTI!"
 
-Il custode si era svegliato.
+Il custode si è svegliato.
 
 ---
 
-[[Nybo]] esce dall'edificio, restando nell'ombra.
+[[Nybo]] esce, restando nell'ombra.
 
 Osserva il custode.
 
-Inizia a [[Passare Senza Tracce|vibrare fino a diventare quasi invisibile]].
-Va dietro al custode.
-Lo colpisce. Un colpo secco, dritto al collo.
+Inizia a [[Passare Senza Tracce|vibrare, diventando quasi invisibile]].
+Gli si avvicina alle spalle.
 
-Una tecnica che aveva imparato in passato, tramite gli insegnamenti di suo [[Padre Nybo|padre]]
+Colpisce.
+Un colpo secco, diretto al collo.
+
+Una tecnica appresa in passato, dagli insegnamenti speciali di suo [[Padre Nybo|padre]]
 
 Il custode perde i sensi.
-[[Nybo]] lo riporta nel soppalco su cui stava dormendo.
 
-Intagliando il legno con una zappa lì vicina, lascia un messaggio:
+[[Nybo]] lo riporta sul soppalco dove stava dormendo.
 
+Con una zappa trovata lì vicino, incide un messaggio nel legno:
 >MORTAI RUBATI ANNI FA
 
 ---
 
-[[Nybo]] esplora anche l'ultimo capannone, aprendone la porta con maestria, senza nemmeno romperne la serratura, nonostante abbia usato il machete.
+[[Nybo]] esplora anche l'ultimo capannone.
 
-Questa volta, un campo di grano.
+Apre  la porta con precisione, senza romperne la serratura, nonostante usi nuovamente il machete.
 
-Ma c'è qualcosa che non va: il grano non cresce ed il terreno presenta degli elementi che ricordano a [[Nybo]] la carota del pomeriggio precedente.
+All'interno: un campo di grano.
 
-Analizzando meglio, si rende conto che, nel terreno, sono presenti due polveri: una rossa ed una viola. Si repellono a vicenda, ma la loro origine sembra esser naturale.
+Ma qualcosa non torna.
+Il grano non cresce, ed il terreno presenta elementi che ricordano a [[Nybo]] la carota del pomeriggio precedente.
+
+Osservando meglio, nota due polveri nel terreno: una rossa ed una viola.
+Si repellono a vicenda, ma sembrano entrambe di origine naturale.
 
 ---
 
-[[Nybo]] torna indietro, parzialmente deluso per non aver trovato ciò che cercava.
+[[Nybo]] torna indietro, parzialmente deluso.
 
-Decide di andare verso la [[MortharCave_Map|cava]], in perlustrazione.
+Decide di dirigersi verso la [[MortharCave_Map|cava]] per fare un sopralluogo.
 ![[MortharCave_Map.jpeg]]
 
+I lavoratori sono ancora presenti.
+
+All'esterno si vedono numeri cristalli di ametista, simili a quello che porta al collo [[Shae Kirr]].
+
+[[Nybo]] decide di frammentarne uno, per poterlo analizzare e portarlo con sé.
+
+Nel frattempo passa un [[Giuda|costrutto]] che, con atteggiamento eccentrico e narcisistico, si compiace del proprio operato nel sorvegliare la cava.
+
+Non si accorge di [[Nybo]].
+
+---
+
+[[Nybo]] osserva l'interno della cava: sembra stiano smantellando le ferrovie.
+
+L'accesso è proibito.
+L'interno è immerso nell'oscurità, ad eccezione di qualche lanterna.
+
+I lavoratori si dividono in due turni: pomeridiani e notturni.
+La mattina è il momento di pausa.
+
+[[Nybo]] si allontana.
+
+---
+
+Procedendo verso la casa del [[Capovillaggio di Morthar|capovillaggio]], viene notato da una [[Emissario Donna|ragazza]] dall'aspetto insolito.
+
+Lei lo guarda con disgusto e chiude la finestra.
+
+Probabilmente lo avrà scambiato per un guardone.
+
+---
+
+Arrivato davanti alla [[Morthar#Casa del Capovillaggio:|casa del capovillaggio]], [[Nybo]] nota un'innaturale oscurità sul retro, nonché un buio sospetto anche all'interno.
+
+Decide comunque di non entrare.
+
+E' stanco.
+E non vuole rischiare di esser scoperto.
+
+Torna a casa e si addormenta.

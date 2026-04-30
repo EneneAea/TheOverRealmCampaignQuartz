@@ -10,3 +10,5 @@
 
 ### Ex Fabbrica di Mortai:
 ![[MortharExFactory_Map.jpeg]]
+
+### Casa del Capovillaggio:
