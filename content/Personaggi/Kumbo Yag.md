@@ -1,6 +1,5 @@
 ---
 tags:
-  - character
   - player
 ---
 ## Informazioni Generali:
