@@ -1,5 +1,5 @@
 ---
-date: 2025-04-25
+date: 2026-04-25
 ---
 Durante il pomeriggio di una giornata come le altre, [[Shae Kirr]] è accampato in una tenda vicino ad un laghetto, nei pressi del [[Passo Canturiano]], la via che sa lo condurrà a [[Morthar]].
 
