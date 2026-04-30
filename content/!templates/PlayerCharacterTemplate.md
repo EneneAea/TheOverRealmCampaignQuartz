@@ -5,6 +5,8 @@ tags:
 ## Informazioni Generali:
 - Nome:
 - Età:
+- Peso: 
+- Altezza:
 - Razza:
 - Classe:
 - Sottoclasse:
