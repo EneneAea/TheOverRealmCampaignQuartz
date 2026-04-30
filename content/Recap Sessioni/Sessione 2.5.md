@@ -1,5 +1,5 @@
 ---
-"Data:": 27/04/2026
+date: 2027-04-26
 ---
 [[Shae Kirr]] e [[Kumbo Yag]] dormono.
 

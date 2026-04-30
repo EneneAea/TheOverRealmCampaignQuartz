@@ -1,6 +1,7 @@
 ---
 tags:
   - character
+  - player
 ---
 ## Informazioni Generali:
 - Nome: Kumbo Yag

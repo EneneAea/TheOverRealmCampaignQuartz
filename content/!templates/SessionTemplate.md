@@ -1,3 +1,3 @@
 ---
-"Data:": DD/MM/YYYY
+date:
 ---
