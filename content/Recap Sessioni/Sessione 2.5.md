@@ -3,9 +3,9 @@ date: 2026-04-27
 ---
 [[Shae Kirr]] e [[Kumbo Yag]] dormono.
 
-[[Nybo]] utilizza il foglio e la matita lasciatogli da [[Shae Kirr]] per scrivere un [[NyboMessage|messaggio]].
+[[Nybo]] utilizza il foglio e la matita lasciatogli da [[Shae Kirr]] per scrivere un [[Nybo va a Passeggiare di Notte|messaggio]].
 
-![[NyboMessage#Immagine]]
+![[Nybo va a Passeggiare di Notte#Immagine]]
 
 Lascia il messaggio, insieme a tre mele, su un tavolino.
 
@@ -119,7 +119,7 @@ Si repellono a vicenda, ma sembrano entrambe di origine naturale.
 
 [[Nybo]] torna indietro, parzialmente deluso.
 
-Decide di dirigersi verso la [[MortharCave_Map|cava]] per fare un sopralluogo.
+Decide di dirigersi verso la [[MortharCave_Map|cava]] per fare un sopralluogo. (AGGIUNGERE MAPPA)
 ![[MortharCave_Map.jpeg]]
 
 I lavoratori sono ancora presenti.
@@ -154,7 +154,7 @@ Probabilmente lo avrà scambiato per un guardone.
 
 ---
 
-Arrivato davanti alla [[Morthar#Casa del Capovillaggio:|casa del capovillaggio]], [[Nybo]] nota un'innaturale oscurità sul retro, nonché un buio sospetto anche all'interno.
+Arrivato davanti alla [[Morthar#Casa del Capovillaggio:|casa del capovillaggio]] (AGGIUNGERE MAPPA), [[Nybo]] nota un'innaturale oscurità sul retro, nonché un buio sospetto anche all'interno.
 
 Decide comunque di non entrare.
 
