@@ -7,7 +7,7 @@ Il panorama si apre su metri e metri di erba chiara, punteggiata da pochi alberi
 
 Mentre si riposa, sente il rumore di un [[Pollo|pollo]] nei pressi del laghetto. E poco dopo, sente lo stesso [[Pollo|pollo]] morire.
 
-![[Death.mp3]]
+![Death](https://youtu.be/aFm67UOJ1V8)
 
 Affacciandosi, scorge in lontananza una figura: alta, piumata come lui, ma dalle piume nere. Anzi, nerissime. Nessun raggio di luce sembra riflettersi su di esse.
 
