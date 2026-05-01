@@ -9,7 +9,7 @@ tags:
 - Altezza: 1,80m
 - Razza: [[Kenoptero]]
 - Classe: [[Monaco]]
-- Sottoclasse: #SPOILER
+- Sottoclasse: SPOILER
 - Sesso: Maschio
 - Pisnelo: 16 cm (riposo) | 20 cm (sveglio)
 - Player: Neneno Nenea

@@ -212,7 +212,7 @@ Alle mura, alcune guardie stanno giocando a carte.
 
 Nonostante tutto, entrano.
 
-![[Morthar#Zona Commerciale]]
+![[MortharCommercialZone_Map.jpeg]]
 
 Vengono indirizzati dal [[Stranamore|macellaio]].
 
@@ -319,7 +319,7 @@ Dopo un po', [[Nybo]] cerca qualcosa che potesse farlo procedere col suo obbiett
 
 L'emissario li conduce ad una rotonda.
 
-![[Morthar#Rotonda]]
+![[MortharRoundabout_Map.jpeg]]
 
 Al centro: dell'ossidiana posizionata come a formare una cornice.
 
@@ -329,7 +329,7 @@ Alcuni pezzi di quest'ossidiana hanno delle lacrime viola che scendono giù.
 
 Seguono l’[[Emissario]] verso la zona residenziale.
 
-![[Morthar#Zona Residenziale]]
+![[MortharResidentialZone_Map.jpeg]]
 
 Incontrano una figura anziana che conosce [[Shae Kirr]].
 
