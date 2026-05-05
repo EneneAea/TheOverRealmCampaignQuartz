@@ -1,9 +1,9 @@
 ---
 date: 2026-04-27
 ---
-[[Shae Kirr]] e [[Kumbo Yag]] dormono.
+[[Shae'Kirr]] e [[Kumbo Yag]] dormono.
 
-[[Nybo]] utilizza il foglio e la matita lasciatogli da [[Shae Kirr]] per scrivere un [[Nybo va a Passeggiare di Notte|messaggio]].
+[[Nybo]] utilizza il foglio e la matita lasciatogli da [[Shae'Kirr]] per scrivere un [[Nybo va a Passeggiare di Notte|messaggio]].
 
 ![[Nybo va a Passeggiare di Notte#Immagine]]
 
@@ -124,7 +124,7 @@ Decide di dirigersi verso la [[MortharCave_Map|cava]] per fare un sopralluogo. (
 
 I lavoratori sono ancora presenti.
 
-All'esterno si vedono numeri cristalli di ametista, simili a quello che porta al collo [[Shae Kirr]].
+All'esterno si vedono numeri cristalli di ametista, simili a quello che porta al collo [[Shae'Kirr]].
 
 [[Nybo]] decide di frammentarne uno, per poterlo analizzare e portarlo con sé.
 

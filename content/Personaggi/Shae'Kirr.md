@@ -3,7 +3,7 @@ tags:
   - player
 ---
 ## Informazioni Generali:
-- Nome: Shae Kirr
+- Nome: Shae'Kirr
 - Età: 12 (ma visivamente di più?)
 - Peso: 100Kg
 - Altezza: 1,85m

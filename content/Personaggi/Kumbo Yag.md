@@ -4,7 +4,7 @@ tags:
 ---
 ## Informazioni Generali:
 - Nome: Kumbo Yag
-- Età: 16 anni
+- Età: 19 anni
 - Peso:
 - Altezza: 1,65m
 - Razza: [[Umano]]

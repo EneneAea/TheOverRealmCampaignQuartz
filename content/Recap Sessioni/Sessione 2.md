@@ -9,7 +9,7 @@ Resta seduto a terra, con la schiena appoggiata al muro, gli occhi chiusi. Medit
 
 I tre si rimettono in cammino verso il [[Passo Canturiano]].
 
-Solo [[Shae Kirr]] e [[Kumbo Yag]] sanno cosa sia davvero quel luogo.  
+Solo [[Shae'Kirr]] e [[Kumbo Yag]] sanno cosa sia davvero quel luogo.  
 
 ---
 
@@ -42,7 +42,7 @@ Poi torna indietro senza farsi notare.
 
 ---
 
-Si avvicina al laghetto e ascolta per un po’ [[Shae Kirr]] e [[Kumbo Yag]].
+Si avvicina al laghetto e ascolta per un po’ [[Shae'Kirr]] e [[Kumbo Yag]].
 
 Poi si china per bere.
 
@@ -85,7 +85,7 @@ Si guarda intorno con iper-attenzione.
 
 ---
 
-[[Shae Kirr]] chiede a [[Kumbo Yag]] di trasformarsi in [[RagnoDruido|ragno]] per esplorare le scalinate.
+[[Shae'Kirr]] chiede a [[Kumbo Yag]] di trasformarsi in [[RagnoDruido|ragno]] per esplorare le scalinate.
 
 [[Kumbo Yag]] sale su quella di sinistra.
 
@@ -105,7 +105,7 @@ Appena lo vede, l’uomo lo attacca.
 
 Senza pensarci, tenta di scalare la parete.
 
-[[Shae Kirr]] lo aiuta.
+[[Shae'Kirr]] lo aiuta.
 
 ---
 
@@ -131,7 +131,7 @@ Solo [[Nybo]] e [[Kumbo Yag]] riescono a percepire ciò che accade al suo intern
 
 ---
 
-Nel frattempo, [[Shae Kirr]] affronta un altro [[Villico|villico]].
+Nel frattempo, [[Shae'Kirr]] affronta un altro [[Villico|villico]].
 
 Lo mette a terra senza ucciderlo.
 
@@ -184,7 +184,7 @@ Non ricorda nulla.
 
 ---
 
-[[Shae Kirr]] interroga il [[Villico|villico]] ancora vivo.
+[[Shae'Kirr]] interroga il [[Villico|villico]] ancora vivo.
 
 ---
 
@@ -200,7 +200,7 @@ Alle mura, alcune guardie stanno giocando a carte.
 
 > "Sto male..."
 
-[[Shae Kirr]] si oppone.
+[[Shae'Kirr]] si oppone.
 
 > "Perché menti?"
 
@@ -216,7 +216,7 @@ Nonostante tutto, entrano.
 
 Vengono indirizzati dal [[Stranamore|macellaio]].
 
-[[Shae Kirr]], invece, entra in una locanda.
+[[Shae'Kirr]], invece, entra in una locanda.
 
 Parla con la [[Locandiera di Morthar|locandiera]], incinta.
 
@@ -228,7 +228,7 @@ Lo indirizza al [[Stranamore|macellaio]].
 
 ---
 
-[[Shae Kirr]], prima di dirigersi dal macellaio, chiede tante birre.
+[[Shae'Kirr]], prima di dirigersi dal macellaio, chiede tante birre.
 Gli vengono concesse.
 
 Beve.
@@ -257,13 +257,13 @@ Poi si dirige verso il [[Stranamore|macellaio]]
 
 > "Perché ti comporti così?"
 
-> "Odio chi mente." - [[Shae Kirr]]
+> "Odio chi mente." - [[Shae'Kirr]]
 
 > "Non ero lucido." - [[Nybo]]
 
 ---
 
-[[Shae Kirr]] capisce.
+[[Shae'Kirr]] capisce.
 
 Lo perdona.
 
@@ -275,7 +275,7 @@ Scambiano smeraldi per gettoni.
 
 ---
 
-[[Shae Kirr]] divide i gettoni con [[Nybo]].
+[[Shae'Kirr]] divide i gettoni con [[Nybo]].
 
 A [[Kumbo Yag]] ne dà una parte senza parlarci.
 
@@ -287,13 +287,13 @@ Si dirige verso delle guardie lì vicino.
 
 ---
 
-[[Shae Kirr]] denuncia il macellaio.
+[[Shae'Kirr]] denuncia il macellaio.
 
 Le guardie fingono sorpresa.
 
 Sono chiaramente corrotte.
 
-[[Shae Kirr]], ingenuamente, non coglie quest'aspetto.
+[[Shae'Kirr]], ingenuamente, non coglie quest'aspetto.
 Pensa realmente che sia fatta giustizia.
 
 ---
@@ -331,11 +331,11 @@ Seguono l’[[Emissario]] verso la zona residenziale.
 
 ![[MortharResidentialZone_Map.jpeg]]
 
-Incontrano una figura anziana che conosce [[Shae Kirr]].
+Incontrano una figura anziana che conosce [[Shae'Kirr]].
 
 Avviene un dialogo importante.
 
-Dopo, [[Shae Kirr]] resta lì.
+Dopo, [[Shae'Kirr]] resta lì.
 
 [[Kumbo Yag]] e [[Nybo]] si dirigono verso un’abitazione insieme ad [[Anthony]], il fabbro.
 
@@ -353,7 +353,7 @@ La cosa crea empatia in [[Kumbo Yag]] e [[Nybo]].
 
 Non dorme.
 
-Aspetta [[Shae Kirr]].
+Aspetta [[Shae'Kirr]].
 
 ---
 
@@ -363,4 +363,4 @@ Dopo aver parlato ancora con [[Anthony]], la giornata si conclude.
 
 ---
 
-[[Shae Kirr]] si addormenta.
+[[Shae'Kirr]] si addormenta.
