@@ -85,7 +85,7 @@ Si guarda intorno con iper-attenzione.
 
 ---
 
-[[Shae'Kirr]] chiede a [[Kumbo Yag]] di trasformarsi in [[RagnoDruido|ragno]] per esplorare le scalinate.
+[[Shae'Kirr]] chiede a [[Kumbo Yag]] di trasformarsi in [[Ragno|ragno]] per esplorare le scalinate.
 
 [[Kumbo Yag]] sale su quella di sinistra.
 
@@ -125,7 +125,7 @@ Il [[Villico|villico]] ferisce [[Kumbo Yag]], tagliandogli una zampa.
 
 Inizia a vibrare.
 
-Si genera una [[OscuritàIncantesimo|sfera di oscurità totale]].
+Si genera una [[Oscurità|sfera di oscurità totale]].
 
 Solo [[Nybo]] e [[Kumbo Yag]] riescono a percepire ciò che accade al suo interno.
 
@@ -218,7 +218,7 @@ Vengono indirizzati dal [[Stranamore|macellaio]].
 
 [[Shae'Kirr]], invece, entra in una locanda.
 
-Parla con la [[Locandiera di Morthar|locandiera]], incinta.
+Parla con la [[Rosa|locandiera]], incinta.
 
 Mostra degli smeraldi.
 
@@ -298,7 +298,7 @@ Pensa realmente che sia fatta giustizia.
 
 ---
 
-Arriva un [[Emissario]].
+Arriva un [[Giuda|emissario]].
 Arrogante, teatrale.
 
 [[Nybo]] resta nell’ombra.

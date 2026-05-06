@@ -1,8 +1,8 @@
 description
 
-## Informazioni Generali:
-#### Verso:
+# Informazioni Generali:
+## Verso:
 
-#### Aspetto:
+## Aspetto:
 
-#### Luoghi in cui si può trovare:
+## Luoghi in cui si può trovare:

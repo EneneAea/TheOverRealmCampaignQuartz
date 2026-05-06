@@ -2,10 +2,10 @@ Una creatura, abbastanza grande, pelosa ed orripilante, con 8 gambe e tantissimi
 
 Ostile al buio, neutrale alla luce del sole.
 
-## Informazioni Generali:
-#### Verso:
+# Informazioni Generali:
+## Verso:
 ![[Spider_SFX.mp3]]
-#### Aspetto:
+## Aspetto:
 ![[Spider.png]]
-#### Luoghi in cui si può trovare:
+## Luoghi in cui si può trovare:
 Al buio.

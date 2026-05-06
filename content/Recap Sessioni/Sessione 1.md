@@ -17,7 +17,7 @@ Davanti a lui, infatti, [[Nybo]] si mette immediatamente sulla difensiva, puntan
 
 ---
 
-[[Shae'Kirr]] mostra a [[Nybo]] un [[Dodici Kenopteri|foglio bruciacchiato raffigurante 12 facce di Kenopteri]] e, comunicando con non poca difficoltà, [[Nybo]] e [[Shae'Kirr]] arrivano ad un'intesa: possono proseguire il viaggio insieme.
+[[Shae'Kirr]] mostra a [[Nybo]] un [[Dodici Kenopteri|foglio bruciacchiato raffigurante 12 facce di Kenopteri]] e, comunicando con non poca difficoltà, arrivano ad un'intesa: possono proseguire il viaggio insieme.
 
 [[Nybo]], che non vede anima viva da circa sei anni, rimane freddo e distante. Chiede soltanto di poter usare il fuoco acceso da [[Shae'Kirr]] e di essere lasciato in pace. [[Shae'Kirr]] accetta senza esitazione.
 
