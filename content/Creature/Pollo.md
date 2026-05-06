@@ -1,3 +1,12 @@
+---
+aliases:
+  - pollo
+  - polli
+  - gallo
+  - galli
+  - gallina
+  - galline
+---
 Una semplice creatura alata che fa buffi versi, pressoché innocua e fonte di uova, carne e piume.
 
 # Informazioni Generali:

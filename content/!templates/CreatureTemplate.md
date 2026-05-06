@@ -1,3 +1,6 @@
+---
+aliases:
+---
 description
 
 # Informazioni Generali:
